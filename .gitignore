@@ -1,0 +1,20 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ #
+/*.iml
+/.idea
+
+# Project files #
+/doc/
+/bin/
+/www/
+
+/*.pdf
+/*.pptx
+
+/src/zorbot/rtsp/client/Client.java # Unknown license.
