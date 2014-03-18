@@ -17,4 +17,5 @@
 /*.pdf
 /*.pptx
 
-/src/zorbot/rtsp/client/Client.java # Unknown license.
+# Unknown license:
+/src/zorbot/rtsp/client/Client.java
